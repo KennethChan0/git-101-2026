@@ -10,6 +10,7 @@
     "Kevin",
     "Alan",
     "Manny",
+    "Kenneth",
     // Add your name above this line! (Do not delete this)
 ];
 
